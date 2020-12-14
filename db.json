@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": "0da1184a-5755-489a-b932-df62b7e070d6",
+      "categoryId": "5fcbbe10ac637a9b4c664693",
+      "name": "Santos",
+      "itemInStock": 29
+    },
+    {
+      "id": "3fd3e9fe-aab0-4d93-8108-43879eda1b3e",
+      "categoryId": "5fcbbe1080e0c8d3d6c81272",
+      "name": "Ruiz",
+      "itemInStock": 34
+    },
+    {
+      "id": "8ba13833-87ba-439e-91ab-ec4c63214c33",
+      "categoryId": "5fcbbe101be0f23f8f80ebe3",
+      "name": "Holt",
+      "itemInStock": 33
+    },
+    {
+      "id": "185ff6b9-b03c-49d2-bce9-9c7cf75640bf",
+      "categoryId": "5fcbbe10ba300b8faa78d8da",
+      "name": "Levy",
+      "itemInStock": 40
+    },
+    {
+      "id": "5ee5329d-7849-40bf-a80b-aed86dcd2dc4",
+      "categoryId": "5fcbbe10775882e61bbf6f3f",
+      "name": "Bryan",
+      "itemInStock": 34
+    },
+    {
+      "id": "21c7dcd0-f4cc-4c48-b68a-7c3bf29c42d1",
+      "categoryId": "5fcbbe1061f52932119f8393",
+      "name": "Lloyd",
+      "itemInStock": 27
+    },
+    {
+      "id": "77389165-5810-44de-9cbc-e7d8132c6e53",
+      "categoryId": "5fcbbe1033b180c50becad6c",
+      "name": "Rollins",
+      "itemInStock": 40
+    },
+    {
+      "id": "ee2af341-3484-4c0f-b9fc-d75f4d5de54c",
+      "categoryId": "5fcbbe10f78dacf46db904c5",
+      "name": "test",
+      "itemInStock": 27
+    },
+    {
+      "id": "3e1d272c-1125-46bf-ada7-792a9d51f35d",
+      "categoryId": "5fcbbe108b34d00c442ffdbc",
+      "name": "Huber",
+      "itemInStock": 32
+    },
+    {
+      "id": "f4eca275-d76a-4928-83e5-3260ec5e8ec0",
+      "categoryId": "5fcbbe104fbb6a00e998bcef",
+      "name": "Ortiz",
+      "itemInStock": 37
+    },
+    {
+      "id": "9faca34a-d797-401c-80c1-542f7636ea85",
+      "name": "honey",
+      "categoryId": "ee2af341-3484-4c0f-b9fc-d75f4d5de54c",
+      "itemInStock": "2"
+    },
+    {
+      "id": "0a53efbc-316f-420a-8426-09fb9f340bee",
+      "name": "cinamon",
+      "categoryId": "ee2af341-3484-4c0f-b9fc-d75f4d5de54c",
+      "itemInStock": "20"
+    },
+    {
+      "id": "2e805e70-d283-4c4f-a73d-431e45a2d410",
+      "name": "glass",
+      "categoryId": "ee2af341-3484-4c0f-b9fc-d75f4d5de54c",
+      "itemInStock": "20"
+    }
+  ],
+  "categories": []
+}
